@@ -10,6 +10,9 @@
 
 ## Sobre mi:
 
+### ⚙ Mi objetivo es crear soluciones innovadoras y eficientes, utilizando las mejores prácticas de desarrollo y manteniendo un enfoque centrado en el usuario. Me encanta trabajar en proyectos desafiantes y colaborar con equipos talentosos para lograr resultados excepcionales.
+
+
 ### 👨‍💻 Pienso que el trabajo en equipo es fundamental para alcanzar metas y objetivos de manera eficiente y efectiva.<br />
 ### 📚 Actualmente estoy aprendiendo todo sobre tecnologías de Frontend y Backend 😅. <br />
 ### 💪🏼 Metas futuras: Mejorar mi fluidez en inglés para ampliar mi capacidad de comunicación - Nunca dejar de generar nuevas ideas. <br />
