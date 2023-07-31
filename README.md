@@ -10,10 +10,10 @@
 
 ## Sobre mi:
 
-👨‍💻 Pienso que el trabajo en equipo es fundamental para alcanzar metas y objetivos de manera eficiente y efectiva.<br />
-📚 Actualmente estoy aprendiendo todo sobre tecnologías de Frontend y Backend 😅. <br />
-💪🏼 Metas futuras: Mejorar mi fluidez en inglés para ampliar mi capacidad de comunicación - Nunca dejar de generar nuevas ideas. <br />
-⚡ Dato curioso: Me encanta jugar videojuegos👾 y al fútbol⚽. <br />
+### 👨‍💻 Pienso que el trabajo en equipo es fundamental para alcanzar metas y objetivos de manera eficiente y efectiva.<br />
+### 📚 Actualmente estoy aprendiendo todo sobre tecnologías de Frontend y Backend 😅. <br />
+### 💪🏼 Metas futuras: Mejorar mi fluidez en inglés para ampliar mi capacidad de comunicación - Nunca dejar de generar nuevas ideas. <br />
+### ⚡ Dato curioso: Me encanta jugar videojuegos👾 y al fútbol⚽. <br />
 
 <br />
 
