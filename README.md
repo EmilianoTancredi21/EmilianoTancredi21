@@ -43,9 +43,6 @@
 [![Sass](https://img.shields.io/badge/-Sass-pink?style=flat&logo=sass&link=https://github.com/EmilianoTancredi21)](https://github.com/EmilianoTancredi21)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blue?style=flat&logo=tailwind-css&link=https://github.com/EmilianoTancredi21)](https://github.com/EmilianoTancredi21)
 
-<p align='center'>
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmilianoTancredi21&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Estadísticas de GitHub">
-   </p>
 
 
 <p>Contáctame!</p>
