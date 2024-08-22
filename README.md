@@ -29,9 +29,9 @@
 
 
 <div align="center">
-  <img alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemMyeDU1cG1sYzRodGliM2N2Mnd6bWcybnVxdWxzdnZxY3JsbDNzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" height="400px"/>
+  <img alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemMyeDU1cG1sYzRodGliM2N2Mnd6bWcybnVxdWxzdnZxY3JsbDNzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" height="300px" />
   
-  <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDd1anVrYjZ0anY0Z3FweGZzaHg3YjZvMDcwaHEwNXZlM2hmYnp6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.webp" height="400px"/>
+  <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDd1anVrYjZ0anY0Z3FweGZzaHg3YjZvMDcwaHEwNXZlM2hmYnp6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.webp" height="300px"/>
 </div>
 
   
